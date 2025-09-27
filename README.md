@@ -1,5 +1,5 @@
 ---
-title: AnveshAI - Intelligent Assistant
+title: AnveshAI - Chat Bot Beta
 emoji: 🤖
 colorFrom: blue
 colorTo: purple
@@ -10,7 +10,7 @@ pinned: false
 license: mit
 ---
 
-# 🤖 AnveshAI - Intelligent Assistant
+# 🤖 AnveshAI - Chat Bot Beta
 
 An advanced AI chat assistant powered by Google Gemini 2.5 Pro, designed to help with programming, problem-solving, and intelligent conversations.
 
@@ -98,6 +98,9 @@ You can customize the AI's behavior by modifying the system prompt in `app.py`. 
 - Verify your API key is correctly set
 - Ensure you have Gemini API access
 
+## 📞 Support
+
+- **Issues**: [GitHub Issues](https://github.com/AnveshAI/AnveshAI-Chat-Bot-Beta/issues)
 ---
 
-**Built with ❤️ using Gradio and Google Gemini**
+**Made with ❤️ by the AnveshAI team**
